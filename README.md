@@ -30,6 +30,15 @@ This portfolio is a demonstration of my progression in learning Java, starting f
 ## Usage
 To run any of the programs, simply compile the Java file using the `javac` command and then run the resulting class file using the `java` command.
 
+For example:
+
+```bash
+javac 1_HelloWorld.java
+java HelloWorld
+```
+
 ## Contact
+
 If you have questions, feedback, or would like to collaborate, please feel free to contact me at:
-Email: oscar.vng.rh@gmail.com
+
+    Email: oscar.vng.rh@gmail.com
