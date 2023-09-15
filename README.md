@@ -25,6 +25,8 @@ This portfolio is a demonstration of my progression in learning Java, starting f
 10. **10_LinkedList.java**: A basic implementation of a linked list.
 11. **11_BinaryTree.java**: A basic implementation of a binary tree.
 12. **Ex1_TheLibraryRegister.java**: A comprehensive exercise modeling a basic library system.
+13. **Ex2_GardenPlantManagement.java**: Exercise focused on managing garden plants with various functionalities and tracking their health.
+14. **Ex3_UniversityManagement.java**: A system for managing university courses, student registration, and administrative tasks.
 
 
 ## Usage
